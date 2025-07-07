@@ -6,7 +6,7 @@ Hi, I'm Harry
 
 * Contact me at [a5130401@gmail.com](mailto:a5130401@gmail.com)
 
-* Sharing posts on [Medium](http://https://www.linkedin.com/in/harry-jian-2b3bb6264/)
+* Sharing posts on [Medium]([http://https://www.linkedin.com/in/harry-jian-2b3bb6264/](https://medium.com/@a5130401))
 
 * See my portfolio at [Linkend](http://https://www.linkedin.com/in/harry-jian-2b3bb6264/)
 
